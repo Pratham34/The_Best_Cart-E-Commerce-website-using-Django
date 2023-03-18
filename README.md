@@ -1,2 +1,2 @@
 # The_Best_Cart E-Commerce-website-using-Django
-It is a django backend based full stack E-commerce website !
+I made this full stack E-commerce website which uses django on its backend !!
